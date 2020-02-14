@@ -1,0 +1,13 @@
+header {
+  height: 400px;
+  background: black;
+  color: white;
+}
+
+.title {
+  text-align: center;
+  font-size: 60px;
+  padding-top: 150px;
+  border-color: white;
+  border-width: 2px;
+}
